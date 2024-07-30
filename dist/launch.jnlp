@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jnlp href="launch.jnlp" spec="1.0+">
+    <information>
+        <title>Bibliothèque</title>
+        <vendor>HP</vendor>
+        <homepage href=""/>
+        <description>Bibliothèque</description>
+        <description kind="short">Bibliothèque</description>
+    <icon href="Sans titre.png" kind="default"/>
+</information>
+    <update check="always"/>
+    <resources>
+        <j2se version="1.7+"/>
+        <jar href="Biblioth_que.jar" main="true"/>
+    <jar href="lib/AbsoluteLayout.jar"/>
+<jar href="lib/mysql-connector-java-5.1.23-bin.jar"/>
+<jar href="lib/ant-1.7.1.jar"/>
+<jar href="lib/antlr-2.7.5.jar"/>
+<jar href="lib/barbecue-1.5-beta1.jar"/>
+<jar href="lib/barcode4j-2.1.jar"/>
+<jar href="lib/batik-anim.jar"/>
+<jar href="lib/batik-awt-util.jar"/>
+<jar href="lib/batik-bridge.jar"/>
+<jar href="lib/batik-css.jar"/>
+<jar href="lib/batik-dom.jar"/>
+<jar href="lib/batik-ext.jar"/>
+<jar href="lib/batik-gvt.jar"/>
+<jar href="lib/batik-parser.jar"/>
+<jar href="lib/batik-script.jar"/>
+<jar href="lib/batik-svg-dom.jar"/>
+<jar href="lib/batik-svggen.jar"/>
+<jar href="lib/batik-util.jar"/>
+<jar href="lib/batik-xml.jar"/>
+<jar href="lib/bcel-5.2.jar"/>
+<jar href="lib/bsh-2.0b4.jar"/>
+<jar href="lib/castor-1.2.jar"/>
+<jar href="lib/commons-beanutils-1.8.0.jar"/>
+<jar href="lib/commons-collections-2.1.1.jar"/>
+<jar href="lib/commons-digester-2.1.jar"/>
+<jar href="lib/commons-javaflow-20060411.jar"/>
+<jar href="lib/commons-logging-1.1.1.jar"/>
+<jar href="lib/dom4j-1.6.1.jar"/>
+<jar href="lib/groovy-all-2.0.1.jar"/>
+<jar href="lib/hibernate3.jar"/>
+<jar href="lib/hsqldb-1.8.0-10.jar"/>
+<jar href="lib/iText-2.1.7.js2.jar"/>
+<jar href="lib/jackson-annotations-2.0.5.jar"/>
+<jar href="lib/jackson-core-2.0.5.jar"/>
+<jar href="lib/jackson-databind-2.0.5.jar"/>
+<jar href="lib/jaxen-1.1.1.jar"/>
+<jar href="lib/jcommon-1.0.15.jar"/>
+<jar href="lib/jdt-compiler-3.1.1.jar"/>
+<jar href="lib/jfreechart-1.0.12.jar"/>
+<jar href="lib/jpa.jar"/>
+<jar href="lib/jxl-2.6.10.jar"/>
+<jar href="lib/log4j-1.2.15.jar"/>
+<jar href="lib/mondrian-3.1.1.12687.jar"/>
+<jar href="lib/png-encoder-1.5.jar"/>
+<jar href="lib/poi-3.7-20101029.jar"/>
+<jar href="lib/poi-ooxml-3.7-20101029.jar"/>
+<jar href="lib/poi-ooxml-schemas-3.7-20101029.jar"/>
+<jar href="lib/rhino-1.7R3.jar"/>
+<jar href="lib/saaj-api-1.3.jar"/>
+<jar href="lib/serializer.jar"/>
+<jar href="lib/servlet-api-2.4.jar"/>
+<jar href="lib/spring-beans-2.5.5.jar"/>
+<jar href="lib/spring-core-2.5.5.jar"/>
+<jar href="lib/velocity-1.7-dep.jar"/>
+<jar href="lib/xalan-2.7.1.jar"/>
+<jar href="lib/xbean.jar"/>
+<jar href="lib/xercesImpl-2.10.0.jar"/>
+<jar href="lib/xml-apis-ext.jar"/>
+<jar href="lib/xml-apis.jar"/>
+<jar href="lib/jcalendar-1.3.3.jar"/>
+</resources>
+    <application-desc main-class="Vue.SplashScreen">
+    </application-desc>
+</jnlp>
